@@ -43,7 +43,7 @@ public class MtvContruller {
 
 		System.out.println(pageNum);
 
-		System.out.println("输出1");
+		System.out.println("输出1最新分支");
 		System.out.println("日志2");
 	System.out.println("我要冲突1");	
 		
