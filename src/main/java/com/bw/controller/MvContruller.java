@@ -40,7 +40,7 @@ public class MtvContruller {
 		if(pageNum==null){
 			pageNum=1;
 		}
-		System.out.println("ssssssad ad ada sd as");
+		System.out.println("这一饿死ssssssad ad ada sd as");
 
 
 		Map<String, Object> map = new HashMap<String, Object>();
